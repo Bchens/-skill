@@ -1,0 +1,4 @@
+interface:
+  display_name: "防止记忆缺失skill"
+  short_description: "维护项目决定与 bug 记忆，防止压缩后偏离初衷。"
+  default_prompt: "Use $prevent-memory-loss before coding to review and update project memory files."
